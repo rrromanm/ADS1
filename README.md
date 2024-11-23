@@ -3,5 +3,6 @@
 
 <p>
   1 - BucketSort <br>
-  2 - The N-Queens Puzzle
+  2 - The N-Queens Puzzle <br>
+  3- Weighted Graph
 </p>
